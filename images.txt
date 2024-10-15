@@ -1,4 +1,6 @@
-docker.getoutline.com/outlinewiki/outline:latest
+postgres:latest
+redis
+sso-server:1.1.5
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
