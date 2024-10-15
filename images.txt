@@ -1,6 +1,5 @@
-postgres:latest
-redis
-sso-server:1.1.5
+
+sso-server
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
