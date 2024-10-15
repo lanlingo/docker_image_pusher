@@ -1,5 +1,5 @@
 
-soulteary/sso-server:1.1.5
+minio/minio:RELEASE.2024-01-05T22-17-24Z
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
