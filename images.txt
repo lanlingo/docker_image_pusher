@@ -1,5 +1,5 @@
 
-ghcr.io/runatlantis/atlantis:latest
+docker.io/library/centos:7
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
