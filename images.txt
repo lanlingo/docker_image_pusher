@@ -1,5 +1,5 @@
 
-vllm/vllm-openai:latest
+swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard:v4
 
 
 
