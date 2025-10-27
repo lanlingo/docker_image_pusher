@@ -1,5 +1,5 @@
 
-vllm/vllm-openai
+vllm/vllm-openai:latest
 
 
 
